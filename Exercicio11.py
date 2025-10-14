@@ -1,4 +1,4 @@
-l1 = float(input(f'Informe o primeiro lado do triângulo: '))
+l1 = float(input(f'Informe o primeiro lado do triângulo: ')) 
 l2 = float(input(f'Informe o segundo lado do triângulo: '))
 l3 = float(input(f'Informe o terceiro lado do triângulo: '))
 
