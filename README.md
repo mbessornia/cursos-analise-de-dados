@@ -36,5 +36,5 @@ As seguintes ferramentas e tecnologias foram utilizadas no desenvolvimento dos p
 ---
 
 <div align="center">
-  <p>Feito com dedicação por <strong>Mateus Bessornia :)</strong></p>
+  <p>Feito por <strong>Mateus Bessornia :)</strong></p>
 </div>
