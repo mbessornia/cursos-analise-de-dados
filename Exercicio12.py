@@ -1,4 +1,4 @@
-tipo_combustivel = str.lower(input('Escolha o combustível que será abastecido:\nE - Etanol\nD - Diesel\n'))
+tipo_combustivel = str.lower(input('Escolha o combustível que será abastecido:\nE - Etanol\nD - Diesel\n')) 
 qtd = float(input('Digite a quantidade em litros a ser abastecido: '))
 valor_desconto = 0
 preco_total = 0
